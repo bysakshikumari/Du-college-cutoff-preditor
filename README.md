@@ -4,7 +4,7 @@ An interactive tool that predicts which Delhi University colleges and courses a 
 would qualify for, based on their CUET UG score and category — built from real, published
 2025 cutoff data.
 
-**Live demo:** - 
+**Live demo:** _(add your Streamlit Cloud link here after deployment)_
 
 ## Problem
 
@@ -63,5 +63,5 @@ streamlit run app.py
 
 ## Disclaimer
 
-Always verify with the official DU CSAS admission
-portal before making decisions
+For educational/exploratory purposes only. Always verify with the official DU CSAS admission
+portal before making decisions.
