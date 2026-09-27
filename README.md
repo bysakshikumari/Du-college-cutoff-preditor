@@ -4,7 +4,7 @@ An interactive tool that predicts which Delhi University colleges and courses a 
 would qualify for, based on their CUET UG score and category — built from real, published
 2025 cutoff data.
 
-**Live demo:** -
+**Live demo:** - https://du-college-cutoff-predictor.streamlit.app/
 
 ## Problem
 
