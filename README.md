@@ -1,8 +1,7 @@
-# DU College & Course Predictor
+# DU Compass
 
-An interactive tool that predicts which Delhi University colleges and courses a student
-would qualify for, based on their CUET UG score and category — built from real, published
-2025 cutoff data.
+A Streamlit Delhi University cutoff explorer that predicts which Delhi University colleges and courses a student
+would qualify for, based on their CUET UG score and category — built from real, published data.
 
 **Live demo:** - https://du-college-cutoff-predictor.streamlit.app/
 
