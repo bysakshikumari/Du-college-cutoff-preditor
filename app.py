@@ -101,7 +101,7 @@ st.plotly_chart(fig, use_container_width=True)
 
 st.divider()
 
-# ---------- Category gap insight ----------
+
 st.subheader("📈 Category-wise cutoff gap (General vs Reserved categories)")
 pivot = df.pivot_table(index=["college", "course"], columns="category", values="cutoff_score").dropna()
 if "UR" in pivot.columns and "SC" in pivot.columns:
