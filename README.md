@@ -62,5 +62,5 @@ streamlit run app.py
 
 ## Disclaimer
 
-Always verify with the official DU CSAS admission
+Verify with the official DU CSAS admission
 portal before making decisions.
